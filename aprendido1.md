@@ -5,7 +5,7 @@ Esto serian los 6 tipos de encabezados que podemos tener
 #### Encabezado 4
 ##### Encabezado 5
 ###### Encabezado 6
-
+ han de ir separados por un espacio si no no funcionan
 
 ---
 este seria un separador de una linea de 
